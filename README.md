@@ -10,20 +10,6 @@ I'm still learning, experimenting, and improving with every project. I enjoy tak
 
 <br/>
 
-## Projects
-
-<div align="left">
-
-<a href="https://github.com/rameenali19/Chess-Game"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rameenali19&repo=Chess-Game&theme=radical&hide_border=true" /> </a>
-
-<a href="https://github.com/rameenali19/Chess-Game-Backend"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rameenali19&repo=Chess-Game-Backend&theme=radical&hide_border=true" /> </a>
-
-<a href="https://github.com/rameenali19/Console-Based-Chess-Game-CPP"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rameenali19&repo=Console-Based-Chess-Game-CPP&theme=radical&hide_border=true" /> </a>
-
-<a href="https://github.com/rameenali19/Dont-Feed-The-Monster"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rameenali19&repo=Dont-Feed-The-Monster&theme=radical&hide_border=true" /> </a>
-
-</div>
-
 <br/>
 
 Currently Learning
