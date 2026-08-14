@@ -24,11 +24,8 @@ I'm still learning, experimenting, and improving with every project. I enjoy tak
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rameenali19&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameenali19&theme=radical&hide_border=true" height="165"/>
-
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameenali19&theme=radical&hide_border=true" height="165"/>  -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameenali19&hide_border=true&background=0D1117&border=FF8C00&stroke=FF4500&ring=FF4500&fire=FF6347&currStreakNum=FFD700&sideNums=FFA500&currStreakLabel=FF6347&sideLabels=FFD700&dates=FFA500" height="165"/>
 </div>
 
 <br/>
