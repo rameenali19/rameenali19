@@ -5,7 +5,7 @@
 
 </div>
 
-I'm a Computer Science student who learns best by building things. Most of my projects involve full-stack web development — from building interfaces with React and Tailwind CSS to creating APIs, working with databases, and connecting everything together.
+I'm a Computer Science student who learns best by building things. Most of my projects involve full-stack web development — from building interfaces with React and Tailwind CSS to creating APIs, working with databases, and connecting everything.
 
 I'm still learning, experimenting, and improving with every project. I enjoy taking an idea, turning it into something functional, and figuring out what I can do better the next time.
 
@@ -18,15 +18,6 @@ I'm still learning, experimenting, and improving with every project. I enjoy tak
 - Database design and SQL
 - React application structure
 - Writing cleaner and more maintainable code
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameenali19&theme=radical&hide_border=true" height="165"/>  -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameenali19&hide_border=true&background=0D1117&border=FF8C00&stroke=FF4500&ring=FF4500&fire=FF6347&currStreakNum=FFD700&sideNums=FFA500&currStreakLabel=FF6347&sideLabels=FFD700&dates=FFA500" height="165"/>
-</div>
 
 <br/>
 
