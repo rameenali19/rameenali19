@@ -43,8 +43,7 @@ I'm still learning, experimenting, and improving with every project. I enjoy tak
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vercel,cpp&perline=5" height="38"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vercel,cpp,docker&perline=6" height="38"/>
 </div>
 
 <br/>
