@@ -35,9 +35,7 @@ I'm still learning, experimenting, and improving with every project. I enjoy tak
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,hono&perline=5" height="38"/>
-
-<img src="https://img.shields.io/badge/BullMQ-Queue%20Processing-b91c1c?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" height="38"/>
 
 </div>
 
@@ -45,7 +43,7 @@ I'm still learning, experimenting, and improving with every project. I enjoy tak
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vercel,cpp,docker&perline=6" height="38"/>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vercel,cpp,docker&perline=6" height="38"/>
 
 </div>
 
